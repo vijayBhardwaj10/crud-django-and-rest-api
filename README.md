@@ -1,4 +1,4 @@
-# restfulapicruddjango
+# restfulapi
 # postgresql
 #python
 #django
